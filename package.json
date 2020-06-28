@@ -1,0 +1,11 @@
+{
+  "name": "alfatraining_07-20",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arminfro/alfatraining_07-20.git",
+  "author": "Armin Fröhlich <mail@arminfroehlich.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.3.1"
+  }
+}
