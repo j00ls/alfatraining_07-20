@@ -1,7 +1,7 @@
 {
   "name": "alfatraining_07-20",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": "https://github.com/arminfro/alfatraining_07-20.git",
   "author": "Armin Fröhlich <mail@arminfroehlich.de>",
   "license": "MIT",
